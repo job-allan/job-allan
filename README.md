@@ -1,9 +1,10 @@
 <div align="center"><img align="center" alt="Coding" width="700" src="https://c.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif"/></>
-<h1 align="center">Hi 👋, I'm Job Allan Odhiambo</h1>
+<h1 align="center">Hi 👋, I'm Job Allan Odhiambo <img src="https://komarev.com/ghpvc/?username=job-allan&label=Profile%20views&color=0e75b6&style=flat" alt="job-allan" /></h1>
+
 <h3 align="center">A passionate frontend and backend web developer from Kenya</h3>
 <div align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=job-allan&label=Profile%20views&color=0e75b6&style=flat" alt="job-allan" /> </p>
+
 
 
 
