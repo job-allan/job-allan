@@ -8,13 +8,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=job-allan" alt="job-allan" /></a> </p>
 <p align="left">
 
-🌱 I’m currently learning **REACT js**
+  🌱 I’m currently learning **REACT js**
 
-- 💬 Ask me about **php**
+  💬 Ask me about **php**
 
-- 📫 How to reach me **adunyaodhiambo@gmail.com**
+  📫 How to reach me **adunyaodhiambo@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+  ⚡ Fun fact **I think I am funny.**
   </p>
 
 <h3 align="center">Connect with me:</h3>
