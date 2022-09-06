@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=job-allan&label=Profile%20views&color=0e75b6&style=flat" alt="job-allan" /> </p>
 
 
-<p align="left">
+
 
   🌱 I’m currently learning **REACT js**
 
@@ -15,7 +15,7 @@
   📫 How to reach me **adunyaodhiambo@gmail.com**
 
   ⚡ Fun fact **I think I am funny.**
-  </p>
+  <hr/>
 
 
 <p align="center">
